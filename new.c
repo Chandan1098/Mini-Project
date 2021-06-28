@@ -1,6 +1,6 @@
 /**
  * @file new.c
- * @author your name (you@domain.com)
+ * @author Aryan Jaiswal (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-06-24
