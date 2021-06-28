@@ -1,9 +1,9 @@
 /**
  * @file new.c
- * @author Aryan Jaiswal (you@domain.com)
+ * @author Aryan Jaiswal (aryanjaiswal166@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-06-24
+ * @date 2021-06-28
  * 
  * @copyright Copyright (c) 2021
  * 
