@@ -1,0 +1,17 @@
+/**
+ * @file html.c
+ * @author Aryan Jaiswal (aryanjaiswal166@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-06-28
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
+#include<stdio.h>
+int main()
+{
+    printf("Hey World\n");
+    return 0;
+}
