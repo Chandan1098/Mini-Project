@@ -1,7 +1,7 @@
 # images and videos
 
 ## Banner
-![Banner](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Banner.png)
+![Banner](https://github.com/aryanjaiswalaj/Mini-Project/blob/Main_1/6_ImagesAndVideos/pic.png)
 
 ## Behavioral High Level Design
 ![HighLevelDesign](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Behavioral%20High%20Level%20Design.png?raw=true)
