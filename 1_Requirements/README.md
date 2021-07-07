@@ -37,7 +37,7 @@ Bank Administration Software offers a range of benefits to providers medium and 
 | 2001-2021 | The emergence of Bank Administration Software  | $5-$10|
 
 ## Defining Our System
-![Description](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Flow%20Chart.png?raw=true)
+![Description](https://github.com/aryanjaiswalaj/Mini-Project/blob/Main_1/6_ImagesAndVideos/Flow%20Chart.png)
 ### Explanation:
 * Bank Administration Software  have few inbuilt features like:
     * Create new account
@@ -51,7 +51,7 @@ Bank Administration Software offers a range of benefits to providers medium and 
     * Making a withdrawl
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/SWOT.PNG?raw=true)
+![SWOT Analysis](https://github.com/aryanjaiswalaj/Mini-Project/blob/Main_1/6_ImagesAndVideos/SWOT.PNG)
 
 # 4W&#39;s and 1&#39;H
 
