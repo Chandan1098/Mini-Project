@@ -6,7 +6,7 @@
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Code Quality Score
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |[![C/C++ CI](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/unit-testing.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/unit-testing.yml)|[![cppcheck-action](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/Valgrind.yml)|[![CI-Coverage](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/gcov.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/gcov.yml)|
-|[![Code Quality Score](https://www.code-inspector.com/project/24709/score/svg/badge.svg)](https://www.code-inspector.com/project/24709/score/svg)|
+[![Code Quality Score](https://www.code-inspector.com/project/24709/score/svg/badge.svg)](https://www.code-inspector.com/project/24709/score/svg)|
 
 
 
