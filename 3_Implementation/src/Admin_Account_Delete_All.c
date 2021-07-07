@@ -1,6 +1,6 @@
 /**
  * @file Admin_Account_Delete_All.c
- * @author your name (you@domain.com)
+ * @author Aryan Jaiswal (aryanjaiswal166@gmail.com)
  * @brief c file for Account.h
  * @version 0.1
  * @date 2021-04-13
