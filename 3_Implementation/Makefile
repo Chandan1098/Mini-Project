@@ -1,5 +1,5 @@
 # Name of the project
-PROJ_NAME = BankManagementSystem
+PROJ_NAME = BankAdministrationSoftware
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 # Output directory
