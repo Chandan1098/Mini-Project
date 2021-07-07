@@ -1,6 +1,6 @@
 /**
  * @file Main.c
- * @author your name (you@domain.com)
+ * @author Aryan Jaiswal (aryanjaiswal166@.com)
  * @brief Main File to run system
  * @version 0.1
  * @date 2021-04-07
