@@ -29,7 +29,7 @@ start:
         system("cls||clear");  
         int choice=0; //intialization of choice for home page
         printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
-        printf("\nHome Page Banking Management System\n\n");
+        printf("\nHome Page Bank Administration Software\n\n");
         printf("Press 1 to enter into Admin Page\n");
         printf("Press 2 to enter into Customer Page\n");
         printf("\nEnter Your Choice:\t");
