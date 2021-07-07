@@ -9,7 +9,7 @@
 
 ## Research
 ### Bank Administration Software Features and Benefits
-In the recent years, computers are included in almost all kind of works and jobs everyone come across in the routine. The availability of the software’s for almost every process or every system has taken the world in its top-gear and fastens the day-to-day life. So, we have tried our best to develop the software program for the Bank Administration Softwarewhere all the tasks to manage the bank system are performed easily and efficiently. It manages all the transactions like new account entry, deposit as well as withdraw entry, transaction of money for various processes,accunt managment, managing bills cash or cheque, etc. Thus, above features of this software will save transaction time and therefore increase the efficiency of the system.
+In the recent years, computers are included in almost all kind of works and jobs everyone come across in the routine. The availability of the software’s for almost every process or every system has taken the world in its top-gear and fastens the day-to-day life. So, we have tried our best to develop the software program for the Bank Administration Software where all the tasks to manage the bank system are performed easily and efficiently. It manages all the transactions like new account entry, deposit as well as withdraw entry, transaction of money for various processes,accunt managment, managing bills cash or cheque, etc. Thus, above features of this software will save transaction time and therefore increase the efficiency of the system.
 
 ### Benefits
 Bank Administration Software offers a range of benefits to providers medium and small.. Here are just a few of them:
