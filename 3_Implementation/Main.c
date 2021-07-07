@@ -28,7 +28,7 @@ int main()
 start:
         system("cls||clear");  
         int choice=0; //intialization of choice for home page
-        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
         printf("\nHome Page Banking Management System\n\n");
         printf("Press 1 to enter into Admin Page\n");
         printf("Press 2 to enter into Customer Page\n");
@@ -40,7 +40,7 @@ start:
 login_admin: 
                 system("cls||clear");    
                 char username[15],password[12];   
-                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                 printf("\n\tLOGIN PAGE\n\n");
                 printf("Enter Your Username:\t");
                 scanf("%13s",&username);
@@ -57,8 +57,8 @@ main_menu:
                                 system("cls||clear"); 
                                 flag=0;
                                 char choice_main_menu='`'; //intialization of choice_main_menu for main menu
-                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
-                                printf("\n  Customer Account Banking Management System\n\n");
+                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
+                                printf("\n  Customer Account Bank Administration Software\n\n");
                                 printf("Press 1 to Create new account\n");
                                 printf("Press 2 to Update information of existing account\n");
                                 printf("Press 3 to Removing existing account\n");
@@ -75,32 +75,32 @@ main_menu:
                                 switch(choice_main_menu)
                                 {
                                         case'1':system("cls||clear");
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n"); 
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n"); 
                                                 admin_account_create();
                                                 getch();
                                                 break;
                                         case'2':system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 admin_account_update();
                                                 getch();
                                                 break;
                                         case'3':system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 admin_account_delete();
                                                 getch();
                                                 break;
                                         case'4':system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 admin_account_Record();
                                                 getch();
                                                 break;
                                         case'5':system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 admin_account_list();
                                                 getch();
                                                 break;
                                         case'6':system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 admin_account_delete_all();
                                                 getch();
                                                 break;
@@ -111,7 +111,7 @@ main_menu:
                                                         char choice_sub_menu='`'; //intialization of choice_sub_menu for sub menu
                                                         struct calculator calculator_number1;
                                                         struct calculator calculator_number2;
-                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n");
+                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n");
                                                         printf("\n\tWelcome to calculator\n\n");
                                                         printf("Press + for addition\n");
                                                         printf("Press - for subtraction\n");
@@ -127,7 +127,7 @@ main_menu:
                                                         switch(choice_sub_menu)
                                                         {
                                                                 case'+':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tAddition\n\n");
                                                                         printf("Enter the first number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -137,7 +137,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'-':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tSubtraction\n\n");
                                                                         printf("Enter the first number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -147,7 +147,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'*':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tMultiplication\n\n");
                                                                         printf("Enter the first number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -157,7 +157,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'/':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tDivision\n\n");
                                                                         printf("Enter the first number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -170,7 +170,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'^':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tPower\n\n");
                                                                         printf("Enter the number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -183,7 +183,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'!':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tFactorial\n\n");
                                                                         printf("Enter the number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -194,7 +194,7 @@ main_menu:
                                                                         getch();
                                                                         break;
                                                                 case'?':system("cls||clear"); 
-                                                                        printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                                        printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                                         printf("\t\tModulus\n\n");
                                                                         printf("Enter the first number:\t\t");
                                                                         scanf("%d",&calculator_number1.number);
@@ -247,7 +247,7 @@ main_menu:
 login_customer:       
                 system("cls||clear");  
                 int account_number_temp=-1;
-                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                 printf("\nPlease enter your accont number\n");
                 scanf("%d",&account_number_temp);
                 fflush(stdin);
@@ -257,7 +257,7 @@ login_customer:
                         {
                                 int choice_customer=0;
                                 system("cls||clear"); 
-                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                 printf("\n\tWelcome to XYZ Bank\n\n");
                                 printf("Press 1 to view your balance\n");
                                 printf("Press 2 to make a withdrawl\n");
@@ -269,17 +269,17 @@ login_customer:
                                 switch (choice_customer)
                                 {
                                         case 1 :system("cls||clear");  
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 customer_account_balance(account_number_temp);
                                                 getch();
                                                 break;
                                         case 2 :system("cls||clear");
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 customer_account_withdrawl(account_number_temp);
                                                 getch();
                                                 break;
                                         case 3 :system("cls||clear"); 
-                                                printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
+                                                printf("\n\t\t\t\t\t\tBank Administration Software\n\n");
                                                 customer_account_detail(account_number_temp);
                                                 getch();
                                                 break;
