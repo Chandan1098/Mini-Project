@@ -1,6 +1,6 @@
 /**
  * @file Test_Calculator.c
- * @author your name (you@domain.com)
+ * @author Aryan Jaiswal (aryanjaiswal166@gmail.com)
  * @brief c file to perform unit testing
  * @version 0.1
  * @date 2021-04-09
